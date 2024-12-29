@@ -1,0 +1,3 @@
+recursive-include acrionai/ext/stanford_town/prompts *.txt
+recursive-include acrionai/ext/stanford_town/static_dirs *.csv
+recursive-include acrionai/ext/stanford_town/static_dirs *.json

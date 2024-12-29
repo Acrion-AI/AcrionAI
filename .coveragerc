@@ -1,0 +1,8 @@
+[run]
+source = 
+    ./acrionai/
+omit = 
+    */acrionai/ext/*
+    */acrionai/environment/android_env/*
+    */acrionai/environment/werewolf_env/*
+    
