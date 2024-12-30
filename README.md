@@ -2,7 +2,7 @@
 # AcrionAI: The Multi-Agent Framework
 
 <p align="center">
-<a href=""><img src="docs/resources/AcrionAI-logo.png" alt="AcrionAI logo: Enable GPT to work in a software company, collaborating to tackle more complex tasks." width="150px"></a>
+<a href=""><img src="docs/resources/AcrionAI-logo.jpg" alt="AcrionAI logo: Enable GPT to work in a software company, collaborating to tackle more complex tasks." width="150px"></a>
 </p>
 
 <p align="center">
@@ -134,43 +134,10 @@ https://github.com/Acrion-AI/AcrionAI/assets/34952977/34345016-5d13-489d-b9f9-b8
 
 If you have any questions or feedback about this project, please feel free to contact us. We highly appreciate your suggestions!
 
-- **Email:** alexanderwu@deepwisdom.ai
+- **Email:** alexanderwu@acrion.ai
 - **GitHub Issues:** For more technical inquiries, you can also create a new issue in our [GitHub repository](https://github.com/Acrion-AI/acrionai/issues).
 
 We will respond to all questions within 2-3 business days.
 
-## Citation
 
-To stay updated with the latest research and development, follow [@Acrion_AI](https://twitter.com/Acrion_AI) on Twitter. 
 
-To cite [AcrionAI](https://openreview.net/forum?id=VtmBAGCN7o) or [Data Interpreter](https://arxiv.org/abs/2402.18679) in publications, please use the following BibTeX entries.
-
-```bibtex
-@inproceedings{hong2024acrionai,
-      title={Meta{GPT}: Meta Programming for A Multi-Agent Collaborative Framework},
-      author={Sirui Hong and Mingchen Zhuge and Jonathan Chen and Xiawu Zheng and Yuheng Cheng and Jinlin Wang and Ceyao Zhang and Zili Wang and Steven Ka Shing Yau and Zijuan Lin and Liyang Zhou and Chenyu Ran and Lingfeng Xiao and Chenglin Wu and J{\"u}rgen Schmidhuber},
-      booktitle={The Twelfth International Conference on Learning Representations},
-      year={2024},
-      url={https://openreview.net/forum?id=VtmBAGCN7o}
-}
-@misc{hong2024data,
-      title={Data Interpreter: An LLM Agent For Data Science}, 
-      author={Sirui Hong and Yizhang Lin and Bang Liu and Bangbang Liu and Binhao Wu and Danyang Li and Jiaqi Chen and Jiayi Zhang and Jinlin Wang and Li Zhang and Lingyao Zhang and Min Yang and Mingchen Zhuge and Taicheng Guo and Tuo Zhou and Wei Tao and Wenyi Wang and Xiangru Tang and Xiangtao Lu and Xiawu Zheng and Xinbing Liang and Yaying Fei and Yuheng Cheng and Zongze Xu and Chenglin Wu},
-      year={2024},
-      eprint={2402.18679},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
-}
-@misc{zhang2024aflow,
-      title={AFlow: Automating Agentic Workflow Generation}, 
-      author={Jiayi Zhang and Jinyu Xiang and Zhaoyang Yu and Fengwei Teng and Xionghui Chen and Jiaqi Chen and Mingchen Zhuge and Xin Cheng and Sirui Hong and Jinlin Wang and Bingnan Zheng and Bang Liu and Yuyu Luo and Chenglin Wu},
-      year={2024},
-      eprint={2410.10762},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2410.10762}, 
-}
-```
-"# AcrionAI" 
-"# test2" 
-"# AcrionAI" 
