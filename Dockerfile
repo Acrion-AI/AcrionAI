@@ -21,5 +21,5 @@ RUN mkdir workspace &&\
     pip install -e .
 
 # Running with an infinite loop using the tail command
-CMD ["sh", "-c", "tail -f /dev/null"]
+CMD ["sh", "-c", "tail -f /dev/null"] 
 
