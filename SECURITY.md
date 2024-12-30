@@ -11,4 +11,4 @@
 
 ## Reporting a Vulnerability
 
-If you have any vulnerability reports, please contact alexanderwu@acrion.ai .
+If you have any vulnerability reports, please contact alexanderwu@acrion.ai
