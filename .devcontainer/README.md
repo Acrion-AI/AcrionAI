@@ -32,3 +32,4 @@ Learn more in the [VS Code Dev Containers documentation](https://code.visualstud
 * When working with the same repository folder in both a container and on Windows, it's crucial to have consistent line endings to avoid numerous changes in the SCM view. The `.gitattributes` file in the root of this repository disables line ending conversion, helping to prevent this issue. For more information, see [resolving git line ending issues in containers](https://code.visualstudio.com/docs/devcontainers/tips-and-tricks#_resolving-git-line-ending-issues-in-containers-resulting-in-many-modified-files).
 
 * If you're curious about the contents of the image used in this Dev Container, you can review it in the [devcontainers/images](https://github.com/devcontainers/images/tree/main/src/python) repository.
+ 
