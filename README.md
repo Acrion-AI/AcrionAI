@@ -2,7 +2,7 @@
 # AcrionAI: The Multi-Agent Framework
 
 <p align="center">
-<a href=""><img src="docs/resources/AcrionAI-new-log.png" alt="AcrionAI logo: Enable GPT to work in a software company, collaborating to tackle more complex tasks." width="150px"></a>
+<a href=""><img src="docs/resources/AcrionAI-logo.png" alt="AcrionAI logo: Enable GPT to work in a software company, collaborating to tackle more complex tasks." width="150px"></a>
 </p>
 
 <p align="center">
