@@ -100,7 +100,6 @@ asyncio.run(main())  # or await main() in a jupyter notebook setting
 
 
 ### QuickStart & Demo Video
-- [Official Demo Video]
 
 https://github.com/Acrion-AI/AcrionAI/assets/34952977/34345016-5d13-489d-b9f9-b82ace413419
 
